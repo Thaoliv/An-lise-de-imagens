@@ -1,7 +1,7 @@
 # Analise-de-imagens
 
 ## Objetivo 🎯
-Analisar imagens
+Analisar textos em imagens
 
 ### Instruções (PT/BR) 
 1. Crie sua conta no Portal da Azure pelo link: (https://azure.microsoft.com/pt-br);
@@ -15,3 +15,6 @@ Analisar imagens
 9. Clique em **Optical character recognition**;
 10. Clique em **Extract text from images**;
 11. E escolha a imagem que deseja analisar.
+
+### Observações:
+Você também pode analisar rostos, espaços e etc.
